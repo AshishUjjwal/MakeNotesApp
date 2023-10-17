@@ -5,7 +5,7 @@ User can make important Note as well as save it for future reference.You can mar
 
 ---
 
-![test image size]()
+![test image size](https://github.com/AshishUjjwal/MakeNotesApp/blob/main/Demo.png)
 
 Mobile View:
 ![screenshot](https://github.com/AshishUjjwal/MakeNotesApp/blob/main/capture.jpeg)
